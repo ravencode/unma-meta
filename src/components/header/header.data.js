@@ -4,15 +4,23 @@ export default [
     label: 'Home',
   },
   {
-    path: 'feature',
-    label: 'Features',
+    path: 'membership',
+    label: 'Membership',
   },
   {
-    path: 'pricing',
-    label: 'Pricing',
+    path: 'verticals',
+    label: 'Verticals',
   },
   {
-    path: 'testimonial',
-    label: 'Testimonial',
+    path: 'resources',
+    label: 'Resources',
+  },
+  {
+    path: 'events',
+    label: 'Events',
+  },
+  {
+    path: 'team',
+    label: 'Team',
   },
 ];
